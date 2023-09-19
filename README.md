@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 Welcome to my Data Science Portfolio! This repository showcases a collection of data science projects I've worked on, highlighting my skills and experience in data analysis, machine learning, and data visualization. Below, you'll find an overview of the projects included in this portfolio, along with instructions on how to navigate and explore them.
 
 ## Table of Contents
@@ -11,6 +9,8 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 5. [Project 5: Image Detection Using pretrained YOLOv5]([#project-5-time-series-forecasting](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/YOLO_Transfer_Learning.ipynb))
 6. [Project 6: Car Price Prediction]((https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb))
 7. [Project 7: Real State Price Prediction]([(https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb)](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/real_state_price_prediction.ipynb))
+
+
 
 ## Project 1: Predictive Sales Analysis
 
