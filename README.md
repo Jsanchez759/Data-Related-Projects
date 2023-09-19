@@ -3,13 +3,17 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 ## Table of Contents
 
 1. [Project 1: Predict whether spacex will attempt to land a rocket or not](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
-2. [Project 2: Mama Cancer Analysis and prediction](#project-2-customer-churn-prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/mama_cancer_analysis.ipynb)
+2. [Project 2: Mama Cancer Analysis and prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/mama_cancer_analysis.ipynb)
 3. [Project 3: Leaf Diseases Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
-5. [Project 4: Concept Analysis of Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Redes_Neuronales_Analisis.ipynb)
-6. [Project 5: Image Detection Using pretrained YOLOv5](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/YOLO_Transfer_Learning.ipynb)
-7. [Project 6: Car Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb)
-8. [Project 7: Real State Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/real_state_price_prediction.ipynb)
-
+4. [Project 4: Concept Analysis of Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Redes_Neuronales_Analisis.ipynb)
+5. [Project 5: Image Detection Using pretrained YOLOv5](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/YOLO_Transfer_Learning.ipynb)
+6. [Project 6: Car Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb)
+7. [Project 7: Real State Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/real_state_price_prediction.ipynb)
+8. [Project 8: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting](https://github.com/Jsanchez759/Maestria-Unir/tree/main/TFM)
+9. Data analysis projects: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting:
+    - [Energy Consume Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Energy_Consume_Analysis.ipynb)
+    - [Hotel Booking Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Hotel_Booking_Analysis.ipynb)
+    - [Uber Data Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Uber_Data_Analysis.ipynb)
 
 
 ## Project 1: Predictive Sales Analysis
