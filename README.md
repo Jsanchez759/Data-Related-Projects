@@ -50,15 +50,11 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 **Link to Project:** [Time Series Forecasting](/project-5-time-series-forecasting)
 
-## Getting Started
-
-To explore a specific project, click on the provided project link, which will take you to the project directory. Each project directory contains a README with detailed explanations, code, and any necessary datasets.
-
 ## Contact Information
 
 If you have any questions or would like to discuss collaboration opportunities, please feel free to contact me:
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** jesussanchezd@hotmail.es
+- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/jesus-sanchez-data-science/)
 
 Thank you for visiting my Data Science Portfolio, and I hope you find the projects informative and insightful!
