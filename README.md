@@ -10,7 +10,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 6. [Project 6: Car Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb)
 7. [Project 7: Real State Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/real_state_price_prediction.ipynb)
 8. [Project 8: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting](https://github.com/Jsanchez759/Maestria-Unir/tree/main/TFM)
-9. Data analysis projects: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting:
+9. Data analysis projects:
     - [Energy Consume Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Energy_Consume_Analysis.ipynb)
     - [Hotel Booking Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Hotel_Booking_Analysis.ipynb)
     - [Uber Data Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Uber_Data_Analysis.ipynb)
