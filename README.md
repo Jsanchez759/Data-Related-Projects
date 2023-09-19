@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 ## Table of Contents
 
-1. [Project 1: Predictive Sales Analysis](#project-1-predictive-sales-analysis)
+1. [Predict whether spacex will attempt to land a rocket or not](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
 2. [Project 2: Customer Churn Prediction](#project-2-customer-churn-prediction)
 3. [Project 3: Image Classification with Convolutional Neural Networks](#project-3-image-classification-with-convolutional-neural-networks)
 4. [Project 4: Natural Language Processing](#project-4-natural-language-processing)
@@ -55,6 +55,6 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 If you have any questions or would like to discuss collaboration opportunities, please feel free to contact me:
 
 - **Email:** jesussanchezd@hotmail.es
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/jesus-sanchez-data-science/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jesus-sanchez-data-science/)
 
 Thank you for visiting my Data Science Portfolio, and I hope you find the projects informative and insightful!
