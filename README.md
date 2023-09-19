@@ -32,13 +32,13 @@ This Machine Learning project focuses on predicting whether a SpaceX rocket will
 
 4. **Feature Selection:** The most relevant features for predicting rocket landings were identified. This involved feature importance analysis and selecting a suitable set of features for the classification models.
 
-5. **Modeling:** Five different classification models, such as Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, and Neural Networks, were implemented. Each model was trained and evaluated using cross-validation techniques and performance metrics such as accuracy, recall, and F1-score.
+5. **Modeling:** Four different classification models, such as Logistic Regression, Decision Trees, Random Forest, Support Vector Machine were implemented. Each model was trained and evaluated using cross-validation techniques and performance metrics such as accuracy, recall, and F1-score.
 
 6. **Model Evaluation:** The models were compared in terms of their ability to accurately predict whether a SpaceX rocket would successfully land or not. Hyperparameters were tuned, and the model with the best performance was selected.
 
 Technologies Used: Python, Pandas, Seaborn, Scikit-Learn.
 
-**Link to Project:** [Predictive Sales Analysis](/project-1-predictive-sales-analysis)
+**Link to Project:** [SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
 
 ## Project 2: Customer Churn Prediction
 
