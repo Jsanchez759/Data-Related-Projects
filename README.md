@@ -4,11 +4,13 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 ## Table of Contents
 
-1. [Predict whether spacex will attempt to land a rocket or not](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
-2. [Project 2: Customer Churn Prediction](#project-2-customer-churn-prediction)
-3. [Project 3: Image Classification with Convolutional Neural Networks](#project-3-image-classification-with-convolutional-neural-networks)
-4. [Project 4: Natural Language Processing](#project-4-natural-language-processing)
-5. [Project 5: Time Series Forecasting](#project-5-time-series-forecasting)
+1. [Project 1: Predict whether spacex will attempt to land a rocket or not](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
+2. [Project 2: Mama Cancer Analysis and prediction]([#project-2-customer-churn-prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/mama_cancer_analysis.ipynb))
+3. [Project 3: Leaf Diseases Classification with Convolutional Neural Networks]([#project-3-image-classification-with-convolutional-neural-networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb))
+4. [Project 4: Concept Analysis of Neural Networks]([#project-4-natural-language-processing](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Redes_Neuronales_Analisis.ipynb))
+5. [Project 5: Image Detection Using pretrained YOLOv5]([#project-5-time-series-forecasting](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/YOLO_Transfer_Learning.ipynb))
+6. [Project 6: Car Price Prediction]((https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb))
+7. [Project 7: Real State Price Prediction]([(https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/Car_Price_Analysis_prediction.ipynb)](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Regression/real_state_price_prediction.ipynb))
 
 ## Project 1: Predictive Sales Analysis
 
