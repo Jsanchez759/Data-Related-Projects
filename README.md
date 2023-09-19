@@ -2,7 +2,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 ## Table of Contents
 
-1. [Project 1: Predict whether spacex will attempt to land a rocket or not](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
+1. [Project 1: SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
 2. [Project 2: Mama Cancer Analysis and prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/mama_cancer_analysis.ipynb)
 3. [Project 3: Leaf Diseases Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
 4. [Project 4: Concept Analysis of Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Redes_Neuronales_Analisis.ipynb)
@@ -16,11 +16,27 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
     - [Uber Data Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Data_Analysis/Uber_Data_Analysis.ipynb)
 
 
-## Project 1: Predictive Sales Analysis
+## Project 1: SpaceX Rocket Landing Classification
 
-**Description:** In this project, I used historical sales data to develop a predictive model for future sales. I applied time series analysis techniques, including ARIMA and Prophet, to forecast sales trends. The results are presented in an interactive dashboard using Plotly and Dash.
+**Description:**
 
-**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Plotly, Dash, ARIMA, Prophet.
+This Machine Learning project focuses on predicting whether a SpaceX rocket will successfully land on the ground or not, using data obtained through the SpaceX API. The ability to predict the outcome of a rocket landing is essential for ensuring the safety and success of space missions.
+
+**Project Steps:**
+
+1. **Data Acquisition:** The SpaceX API was utilized to gather historical data on rocket landings. These data include relevant information such as launch date and time, rocket type, landing location, and the outcome (success or failure).
+
+2. **Data Processing:** Data from the API often require cleaning and transformation. Data processing techniques were applied to remove null values, encode categorical variables, and adjust the data structure for use in Machine Learning models.
+
+3. **Data Visualization:** Visualizations were carried out to better understand patterns and relationships in the data. Charts and tables were created to display descriptive statistics and trends over time.
+
+4. **Feature Selection:** The most relevant features for predicting rocket landings were identified. This involved feature importance analysis and selecting a suitable set of features for the classification models.
+
+5. **Modeling:** Five different classification models, such as Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, and Neural Networks, were implemented. Each model was trained and evaluated using cross-validation techniques and performance metrics such as accuracy, recall, and F1-score.
+
+6. **Model Evaluation:** The models were compared in terms of their ability to accurately predict whether a SpaceX rocket would successfully land or not. Hyperparameters were tuned, and the model with the best performance was selected.
+
+Technologies Used: Python, Pandas, Seaborn, Scikit-Learn.
 
 **Link to Project:** [Predictive Sales Analysis](/project-1-predictive-sales-analysis)
 
