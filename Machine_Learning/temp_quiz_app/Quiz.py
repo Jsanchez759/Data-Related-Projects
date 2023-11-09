@@ -1,7 +1,7 @@
 from test_quiz import questions, send_email
 import streamlit as st
 
-st.title("TheJobsDriverQuiz :question: ")
+st.title("TheJobsDriver Quiz :question: ")
 st.sidebar.success('')
 st.subheader('Please answer the following multiple choice questions')
 name = st.text_input('Please write your name')
