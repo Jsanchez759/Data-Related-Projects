@@ -1,10 +1,5 @@
 from test_quiz import questions, send_email
 import streamlit as st
-import path
-
-dir = path.Path(__file__).abspath()
-sys.append.path(dir.parent.parent)
-
 
 st.title("The Jobs Driver Quiz :question: ")
 st.sidebar.success('')
