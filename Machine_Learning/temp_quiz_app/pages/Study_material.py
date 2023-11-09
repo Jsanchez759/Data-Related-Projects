@@ -3,7 +3,7 @@ import PyPDF2
 
 st.title('Study Material for the quiz :books:')
 
-pdf_file_path = "Introduction to TheJobsDriver.pdf"
+pdf_file_path = "../Introduction to TheJobsDriver.pdf"
 pdf_file = open(pdf_file_path, 'rb')
 pdf_reader = PyPDF2.PdfReader(pdf_file)
 
