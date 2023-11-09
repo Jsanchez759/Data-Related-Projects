@@ -1,7 +1,7 @@
 from test_quiz import questions, send_email
 import streamlit as st
 
-st.title("The Jobs Driver Quiz :question: ")
+st.title("TheJobsDriverQuiz :question: ")
 st.sidebar.success('')
 st.subheader('Please answer the following multiple choice questions')
 name = st.text_input('Please write your name')
@@ -15,12 +15,12 @@ for i, question in enumerate(questions, start=1):
     if selected_option == question['answer']:
         score += 1
 
-st.write(f"You got {score} out of {total_questions} questions correct!")
-
 if st.button('Send Email'):
+    st.write(f"You got {score} out of {total_questions} questions correct!")
     message_sent = send_email(name, score, 'trae@accessai.ai')
     if message_sent == 'Email sent successfully.':
-        st.success(message_sent)
+        st.success('Thanks for taking this quiz. We will contact you shortly!')
+        st.balloons()
     else:
         st.error(message_sent)
-    #st.balloons()
+    
