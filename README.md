@@ -12,11 +12,14 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 6. [Project 6: Car Price Prediction](#project-6-Car-Price-Prediction)
 7. [Project 7: Real State Price Prediction](#project-7-Real-State-Price-Prediction)
 8. [Project 8: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting](#project-8-Comparison-of-3-Deep-Learning-techniques-for-Colombian-Energy-Price-Forescasting)
-9. [Data analysis projects](#project-9-Data-analysis-projects)
+9. [Project 9: Data analysis projects](#project-9-Data-analysis-projects)
     - Energy Consume Analysis
     - Hotel Booking Analysis
     - Uber Data Analysis
-10. [NLP models for Sentiment Analysis](#project-10-nlp-models-for-sentiment-analysis)
+10. [Project 10: NLP models for Sentiment Analysis](#project-10-nlp-models-for-sentiment-analysis)
+11. [Project 11: 10K Project](#project-11-10k-project)
+12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
+13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
