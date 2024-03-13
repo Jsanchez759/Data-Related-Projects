@@ -232,6 +232,36 @@ Conclusion and Recommendations: Provide conclusions regarding which model perfor
 
 **Link to Project:** [Data analysis projects](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Data_Analysis)
 
+## Project 10: NLP models for Sentiment Analysis
+
+**Description:**
+
+This project focuses on sentiment analysis of Amazon Food Reviews, employing two distinct approaches. Initially, the project uses the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis model with the Natural Language Toolkit (NLTK) library to analyze and classify the sentiment of the reviews. Subsequently, a more advanced approach utilizes the pretrained RoBERTa model from the Transformers package to perform sentiment analysis. The aim is to compare the performance of these two methods in gauging the sentiment expressed in the food reviews.
+
+**Project Steps:**
+
+Data Collection: Collect a dataset of Amazon Food Reviews, including text reviews and corresponding sentiment labels (e.g., positive, negative, or neutral).
+
+Data Preprocessing: Clean and preprocess the text data. This includes removing special characters, punctuation, and stop words. Additionally, tokenization is performed to prepare the text for analysis.
+
+VADER Sentiment Analysis: Implement sentiment analysis using the VADER model from the NLTK library. VADER is a lexicon and rule-based sentiment analysis tool that quantifies the sentiment of text into positive, negative, or neutral scores.
+
+Evaluation - VADER: Evaluate the VADER model's performance by comparing its sentiment predictions with the ground truth labels from the dataset. Metrics such as accuracy, precision, recall, and F1-score are computed.
+
+Data Preprocessing for RoBERTa: Prepare the text data in a format suitable for input to the RoBERTa model. This includes tokenization and padding.
+
+RoBERTa Sentiment Analysis: Fine-tune a pretrained RoBERTa model using the transformed dataset for sentiment analysis. RoBERTa is a transformer-based model known for its state-of-the-art performance in various natural language processing tasks, including sentiment analysis.
+
+Evaluation - RoBERTa: Evaluate the RoBERTa model's performance on the same dataset. Compare its sentiment predictions with the ground truth labels and compute evaluation metrics.
+
+Comparison: Analyze and compare the performance of the VADER model and the RoBERTa model. Assess which model provides more accurate sentiment analysis results for Amazon Food Reviews.
+
+Visualization: Create visualizations to illustrate the differences and similarities between the two models' sentiment predictions. This may include word clouds, sentiment distribution plots, and confusion matrices.
+
+**Technologies Used:** Python, Pandas, Matplotlib, Transformers, Seaborn, Natural Language Processing
+
+**Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Data_Analysis)
+
 ## Contact Information
 
 If you have any questions or would like to discuss collaboration opportunities, please feel free to contact me:
