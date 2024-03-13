@@ -16,7 +16,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
     - Energy Consume Analysis
     - Hotel Booking Analysis
     - Uber Data Analysis
-
+10. [NLP models for Sentiment Analysis](#project-10-nlp-models-for-sentiment-analysis)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -260,7 +260,45 @@ Visualization: Create visualizations to illustrate the differences and similarit
 
 **Technologies Used:** Python, Pandas, Matplotlib, Transformers, Seaborn, Natural Language Processing
 
-**Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Data_Analysis)
+**Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Language_Analysis/Sentiment_Analysis.ipynb)
+
+
+## Project 11: 10K Project
+
+**Description:**
+
+This project was focus in create a backend code or app that get a pdf file, read it and analyzed it and we can chat with the app to answers questions about this specific pdf file
+
+**Technologies Used:** Python, LangChain, Transformers, Gradio, Streamlit, OpenAI services
+
+**Link to Project:** 
+- [Gradio App](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/10K_project/gradio_app.py)
+- [Streamlit App](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/10K_project/app/streamlit_app.py)
+
+## Project 12: GPT Turbo Fine Tunnig
+
+**Description:**
+
+The idea with this project was fine-tunning the GPT-3.5 LLM model using the OpenAI services with different datasets and create the pipeline to automate this process and test it 
+
+**Technologies Used:** Python, Transformers, OpenAI services
+
+**Link to Project:** 
+- [English Teacher Model](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/GPT_Turbo_Fine_Tunning/English_Teacher_Model)
+- [Jobs Drive Chatbot Model](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/GPT_Turbo_Fine_Tunning/The_Jobs_Driver_Model)
+
+## Project 13: ChatBots back-end and Deployment
+
+**Description:**
+
+The idea with this project was create different chatbots using Gradio as backend and pre-trained LLMs inside serveless end-points, in this project we use the RunPod API to create the instances and the application take this end-point and the user is able to interact and chat with the model
+
+**Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
+
+**Link to Project:** 
+- [End-Point Creation](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/runpod_endpoint.ipynb)
+- [Chat-Bot Backend](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/gradio_chatbot.py)
+
 
 ## Contact Information
 
