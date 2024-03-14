@@ -83,8 +83,6 @@ Training and Validation: The CNN model was trained using the prepared dataset. D
 
 Model Deployment: I created a Flask backend with a html configuration to visualize and finish the project
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
 **Technologies Used:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs).
 
 **Link to Project:** [Leaf Diseases Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
@@ -162,8 +160,6 @@ Model Evaluation: The performance of each regression model is evaluated using ap
 Model Comparison: The results of different regression models are compared to identify the model that provides the most accurate price predictions for cars.
 
 At the same time, I created a small backend endpoint with Flask to deploy the model in a local environment
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 **Technologies Used:** Python, Pandas, Scikit-Learn, Seaborn
 
