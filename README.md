@@ -81,9 +81,9 @@ CNN Model Building: A Convolutional Neural Network (CNN) architecture was design
 
 Training and Validation: The CNN model was trained using the prepared dataset. Data was split into training and validation sets to monitor model performance and prevent overfitting.
 
-Model Evaluation: The model's performance was evaluated on a separate test dataset, measuring metrics such as accuracy, precision, recall, and F1-score. The goal is to accurately classify leaves as healthy or diseased.
+Model Deployment: I created a Flask backend with a html configuration to visualize and finish the project
 
-Interpretation: The final model was analyzed to understand which features or patterns it uses to classify leaves as healthy or diseased. Visualization techniques such as heatmaps can reveal regions of interest in the images.
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 **Technologies Used:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs).
 
@@ -160,6 +160,10 @@ Hyperparameter Tuning: Hyperparameters for each model are fine-tuned to optimize
 Model Evaluation: The performance of each regression model is evaluated using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2). Cross-validation techniques are applied to assess the models' generalization abilities.
 
 Model Comparison: The results of different regression models are compared to identify the model that provides the most accurate price predictions for cars.
+
+At the same time, I created a small backend endpoint with Flask to deploy the model in a local environment
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 **Technologies Used:** Python, Pandas, Scikit-Learn, Seaborn
 
