@@ -6,7 +6,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 1. [Project 1: SpaceX Rocket Landing Classification](#project-1-SpaceX-Rocket-Landing-Classification)
 2. [Project 2: Mama Cancer Analysis and prediction](#project-2-Mama-Cancer-Analysis-and-prediction)
-3. [Project 3: Leaf Diseases Classification with Convolutional Neural Networks](#project-3-Leaf-Diseases-Classification-with-Convolutional-Neural-Networks)
+3. [Project 3: Sunflower Classification with Convolutional Neural Networks](#project-3-Leaf-Diseases-Classification-with-Convolutional-Neural-Networks)
 4. [Project 4: Concept Analysis of Neural Networks](#project-4-Concept-Analysis-of-Neural-Networks)
 5. [Project 5: Image Detection Using pretrained YOLOv5](#project-5-Image-Detection-Using-pretrained-YOLOv5)
 6. [Project 6: Car Price Prediction](#project-6-Car-Price-Prediction)
@@ -67,7 +67,7 @@ Model Evaluation: The models are rigorously evaluated using performance metrics 
 
 **Link to Project:** [Mama Cancer Analysis and prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/mama_cancer_analysis.ipynb)
 
-## Project 3: Leaf Diseases Classification with Convolutional Neural Networks
+## Project 3: Sunflower Classification with Convolutional Neural Networks
 
 This Machine Learning project focuses on the detection and classification of diseases in plant leaves using advanced image analysis techniques and Convolutional Neural Networks (CNNs) implemented in TensorFlow. The goal is to develop a system capable of identifying whether a plant leaf is healthy or shows signs of disease, which can be crucial for crop health and agriculture.
 
@@ -85,7 +85,7 @@ Model Deployment: I created a Flask backend with a html configuration to visuali
 
 **Technologies Used:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs).
 
-**Link to Project:** [Leaf Diseases Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
+**Link to Project:** [Sunflower Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
 
 ## Project 4: Concept Analysis of Neural Networks
 
