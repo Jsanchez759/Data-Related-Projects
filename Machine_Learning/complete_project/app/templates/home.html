@@ -1,0 +1,99 @@
+<html>
+<body>
+    <div class="login">   
+       <form action="{{ url_for('predict')}}" method="post">
+        <h1>
+            <legend>Student Exam Performance Prediction</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="gender" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select your Gender</option>
+                <option value="gender_male">
+                    Male
+                </option>
+                <option value="gender_female">
+                    Female
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Race or Ethnicity</label>
+            <select class="form-control" name="ethnicity" placeholder="Enter you ethnicity" required>
+                <option class="placeholder" selected disabled value="">Select Ethnicity</option>
+                <option value="race_ethnicity_group A">
+                    Group A
+                </option>
+                <option value="race_ethnicity_group B">
+                    Group B
+                </option>
+                <option value="race_ethnicity_group C">
+                    Group C
+                </option>
+                <option value="race_ethnicity_group D">
+                    Group D
+                </option>
+                <option value="race_ethnicity_group E">
+                    Group E
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Parental Level of Education</label>
+            <select class="form-control" name="parental_level_of_education"
+                placeholder="Enter you Parent Education" required>
+                <option class="placeholder" selected disabled value="">Select Parent Education</option>
+                <option value="associate's degree">
+                    associate's degree
+                </option>
+                <option value="parental_level_of_education_bachelor's degree">
+                    bachelor's degree
+                </option>
+                <option value="parental_level_of_education_high school">
+                    high school
+                </option>
+                <option value="parental_level_of_education_master's degree">
+                    master's degree
+                </option>
+                <option value="parental_level_of_education_some college">
+                    some college
+                </option>
+                <option value="parental_level_of_education_some high school">
+                    some high school
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Lunch Type</label>
+            <select class="form-control" name="lunch" placeholder="Enter you Lunch" required>
+                <option class="placeholder" selected disabled value="">Select Lunch Type</option>
+                <option value="lunch_free/reduced">
+                    free/reduced
+                </option>
+                <option value="lunch_standard">
+                    standard
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Test preparation Course</label>
+            <select class="form-control" name="test_preparation_course" placeholder="Enter you Course"
+                required>
+                <option class="placeholder" selected disabled value="">Select Test_course</option>
+                <option value="test_preparation_course_none">
+                    None
+                </option>
+                <option value="test_preparation_course_completed">
+                    Completed
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict your posibility to pass" required />
+        </div>
+    </form>
+    <h2>
+       The  prediction is {{results}}, with {{confidence_score}}% of confidence
+    </h2>
+   <body>
+</html>

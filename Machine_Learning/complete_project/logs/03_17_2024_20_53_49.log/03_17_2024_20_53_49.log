@@ -1,0 +1,7 @@
+[ 2024-03-17 20:53:53,683 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-17 20:53:53,699 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-17 20:54:07,872 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Mar/2024 20:54:07] "GET /re_train HTTP/1.1" 200 -
+[ 2024-03-17 20:54:51,700 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Mar/2024 20:54:51] "GET /re_train HTTP/1.1" 200 -
+[ 2024-03-17 20:56:17,755 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\app\\app.py', reloading
+[ 2024-03-17 20:56:17,764 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\app\\app.py', reloading
+[ 2024-03-17 20:56:17,764 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\app\\app.py', reloading

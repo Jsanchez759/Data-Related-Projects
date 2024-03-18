@@ -20,6 +20,8 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 11. [Project 11: 10K Project](#project-11-10k-project)
 12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
+14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
+
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -301,6 +303,18 @@ The idea with this project was create different chatbots using Gradio as backend
 **Link to Project:** 
 - [End-Point Creation](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/runpod_endpoint.ipynb)
 - [Chat-Bot Backend](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/gradio_chatbot.py)
+
+## Project 14: Complete ML Project - Student Exam Performance Indicator
+
+**Description:**
+
+Complete Machine Learning project, where the idea was simulate the behaviour and configuration of a complete and industry project,
+here we have a replication of folders and using more advanced techniques such as logger, handling execptions, pipelines and use of classes inside the project, also we create a Dockerfile to deploy the final web app
+
+**Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
+
+**Link to Project:** 
+- [Project]()
 
 
 ## Contact Information
