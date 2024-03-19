@@ -1,0 +1,14 @@
+[ 2024-03-18 11:06:49,951 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-18 11:06:49,954 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-18 11:11:46,052 ] 19 root - INFO - Starting re - training
+[ 2024-03-18 11:11:46,053 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-03-18 11:11:46,077 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-03-18 11:11:46,090 ] 30 root - INFO - Train test split
+[ 2024-03-18 11:11:46,118 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-03-18 11:11:46,138 ] 35 root - INFO - Transformation of the data is started
+[ 2024-03-18 11:11:46,169 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-03-18 11:11:46,180 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-03-18 11:11:49,543 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+[ 2024-03-18 11:11:59,779 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\AppData\\Roaming\\Python\\Python311\\site-packages\\pycaret\\internal\\metrics.py', reloading
+[ 2024-03-18 11:11:59,782 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\sklearn\\metrics\\_scorer.py', reloading
+[ 2024-03-18 11:11:59,783 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading

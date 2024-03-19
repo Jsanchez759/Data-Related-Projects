@@ -1,0 +1,20 @@
+[ 2024-03-17 20:56:24,632 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-17 20:56:24,648 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-17 20:56:24,721 ] 19 root - INFO - Starting re - training
+[ 2024-03-17 20:56:24,721 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-03-17 20:56:24,737 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-03-17 20:56:24,744 ] 30 root - INFO - Train test split
+[ 2024-03-17 20:56:24,769 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-03-17 20:56:24,802 ] 35 root - INFO - Transformation of the data is started
+[ 2024-03-17 20:56:24,826 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-03-17 20:56:24,850 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-03-17 20:56:31,127 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+[ 2024-03-17 20:56:57,853 ] 51 root - INFO - Completed evaluating model
+[ 2024-03-17 20:56:57,864 ] 75 root - INFO - Saving and completed the model
+[ 2024-03-17 20:56:57,864 ] 30 root - INFO - Training Completed
+[ 2024-03-17 20:56:57,867 ] 41 root - INFO - Model re-trained successfully
+[ 2024-03-17 20:56:57,886 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Mar/2024 20:56:57] "GET /re_train HTTP/1.1" 200 -
+[ 2024-03-17 20:59:05,766 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\src\\components\\data_ingestion.py', reloading
+[ 2024-03-17 20:59:05,767 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\src\\components\\data_transformation.py', reloading
+[ 2024-03-17 20:59:05,769 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\src\\components\\train_model.py', reloading
+[ 2024-03-17 20:59:05,781 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\OneDrive\\Documents\\Proyectos\\Repositorios\\Data-Related-Projects\\Machine_Learning\\complete_project\\src\\pipeline\\prediction_pipeline.py', reloading

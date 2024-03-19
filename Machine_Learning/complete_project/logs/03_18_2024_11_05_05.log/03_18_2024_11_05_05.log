@@ -1,0 +1,37 @@
+[ 2024-03-18 11:05:09,123 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-18 11:05:09,127 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-18 11:05:34,637 ] 19 root - INFO - Starting re - training
+[ 2024-03-18 11:05:34,637 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-03-18 11:05:34,643 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-03-18 11:05:34,651 ] 30 root - INFO - Train test split
+[ 2024-03-18 11:05:34,664 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-03-18 11:05:34,685 ] 35 root - INFO - Transformation of the data is started
+[ 2024-03-18 11:05:34,713 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-03-18 11:05:34,728 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-03-18 11:05:37,425 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+[ 2024-03-18 11:05:38,189 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\file_explorer.py', reloading
+[ 2024-03-18 11:05:38,212 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\gallery.py', reloading
+[ 2024-03-18 11:05:38,230 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\highlighted_text.py', reloading
+[ 2024-03-18 11:05:38,244 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\html.py', reloading
+[ 2024-03-18 11:05:38,261 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\image.py', reloading
+[ 2024-03-18 11:05:38,286 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\image_editor.py', reloading
+[ 2024-03-18 11:05:38,306 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\json_component.py', reloading
+[ 2024-03-18 11:05:38,326 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\label.py', reloading
+[ 2024-03-18 11:05:38,345 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\line_plot.py', reloading
+[ 2024-03-18 11:05:38,359 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\login_button.py', reloading
+[ 2024-03-18 11:05:38,369 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\logout_button.py', reloading
+[ 2024-03-18 11:05:38,385 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\markdown.py', reloading
+[ 2024-03-18 11:05:38,404 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\model3d.py', reloading
+[ 2024-03-18 11:05:38,433 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\number.py', reloading
+[ 2024-03-18 11:05:38,457 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\paramviewer.py', reloading
+[ 2024-03-18 11:05:38,475 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\radio.py', reloading
+[ 2024-03-18 11:05:38,493 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\scatter_plot.py', reloading
+[ 2024-03-18 11:05:38,512 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\slider.py', reloading
+[ 2024-03-18 11:05:38,527 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\state.py', reloading
+[ 2024-03-18 11:05:38,545 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\textbox.py', reloading
+[ 2024-03-18 11:05:38,568 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\upload_button.py', reloading
+[ 2024-03-18 11:05:38,600 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\video.py', reloading
+[ 2024-03-18 11:05:38,625 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\_simple_templates\\simpledropdown.py', reloading
+[ 2024-03-18 11:05:38,642 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\_simple_templates\\simpleimage.py', reloading
+[ 2024-03-18 11:05:38,658 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\_simple_templates\\simpletextbox.py', reloading
+[ 2024-03-18 11:05:38,678 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\templates.py', reloading

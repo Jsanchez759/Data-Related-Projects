@@ -1,0 +1,21 @@
+[ 2024-03-18 10:59:38,907 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-18 10:59:38,911 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-18 10:59:44,128 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2024 10:59:44] "GET /predict HTTP/1.1" 200 -
+[ 2024-03-18 10:59:44,335 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2024 10:59:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-03-18 11:03:50,105 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2024 11:03:50] "POST /predict HTTP/1.1" 200 -
+[ 2024-03-18 11:04:41,025 ] 19 root - INFO - Starting re - training
+[ 2024-03-18 11:04:41,037 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-03-18 11:04:41,062 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-03-18 11:04:41,076 ] 30 root - INFO - Train test split
+[ 2024-03-18 11:04:41,093 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-03-18 11:04:41,113 ] 35 root - INFO - Transformation of the data is started
+[ 2024-03-18 11:04:41,142 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-03-18 11:04:41,159 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-03-18 11:04:44,447 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\blocks_events.py', reloading
+[ 2024-03-18 11:04:44,462 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\accordion.py', reloading
+[ 2024-03-18 11:04:44,469 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\column.py', reloading
+[ 2024-03-18 11:04:44,479 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\row.py', reloading
+[ 2024-03-18 11:04:44,484 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\form.py', reloading
+[ 2024-03-18 11:04:44,491 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\group.py', reloading
+[ 2024-03-18 11:04:44,498 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\tabs.py', reloading
+[ 2024-03-18 11:04:44,525 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\base.py', reloading

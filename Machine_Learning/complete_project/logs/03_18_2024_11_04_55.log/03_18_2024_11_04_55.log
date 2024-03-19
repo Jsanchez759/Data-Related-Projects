@@ -1,0 +1,27 @@
+[ 2024-03-18 11:04:59,173 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-18 11:04:59,177 ] 96 werkzeug - INFO -  * Debugger PIN: 419-739-234
+[ 2024-03-18 11:05:00,174 ] 19 root - INFO - Starting re - training
+[ 2024-03-18 11:05:00,174 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-03-18 11:05:00,179 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-03-18 11:05:00,185 ] 30 root - INFO - Train test split
+[ 2024-03-18 11:05:00,196 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-03-18 11:05:00,213 ] 35 root - INFO - Transformation of the data is started
+[ 2024-03-18 11:05:00,248 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-03-18 11:05:00,268 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-03-18 11:05:02,898 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+[ 2024-03-18 11:05:03,420 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\plot.py', reloading
+[ 2024-03-18 11:05:03,434 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\bar_plot.py', reloading
+[ 2024-03-18 11:05:03,447 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\button.py', reloading
+[ 2024-03-18 11:05:03,467 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\chatbot.py', reloading
+[ 2024-03-18 11:05:03,489 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\checkbox.py', reloading
+[ 2024-03-18 11:05:03,512 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\checkboxgroup.py', reloading
+[ 2024-03-18 11:05:03,535 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\clear_button.py', reloading
+[ 2024-03-18 11:05:03,558 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\code.py', reloading
+[ 2024-03-18 11:05:03,581 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\color_picker.py', reloading
+[ 2024-03-18 11:05:03,620 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\dataframe.py', reloading
+[ 2024-03-18 11:05:03,644 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\dataset.py', reloading
+[ 2024-03-18 11:05:03,658 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\download_button.py', reloading
+[ 2024-03-18 11:05:03,677 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\dropdown.py', reloading
+[ 2024-03-18 11:05:03,697 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\duplicate_button.py', reloading
+[ 2024-03-18 11:05:03,707 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\fallback.py', reloading
+[ 2024-03-18 11:05:03,721 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\file.py', reloading
