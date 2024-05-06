@@ -311,10 +311,10 @@ The idea with this project was create different chatbots using Gradio as backend
 Complete Machine Learning project, where the idea was simulate the behaviour and configuration of a complete and industry project,
 here we have a replication of folders and using more advanced techniques such as logger, handling execptions, pipelines and use of classes inside the project, also we create a Dockerfile to deploy the final web app
 
-**Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
+**Technologies Used:** Python, Scikit-Learn, Docker
 
 **Link to Project:** 
-- [Project]()
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/complete_project)
 
 
 ## Contact Information
