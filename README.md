@@ -45,7 +45,7 @@ This Machine Learning project focuses on predicting whether a SpaceX rocket will
 
 Technologies Used: Python, Pandas, Seaborn, Scikit-Learn.
 
-**Link to Project:** [SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Classification/SpaceX_classification_prediction.ipynb)
+**Link to Project:** [SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Classification/spaceX_classification_project)
 
 ## Project 2: Mama Cancer Analysis and prediction
 
