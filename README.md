@@ -17,7 +17,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
     - Hotel Booking Analysis
     - Uber Data Analysis
 10. [Project 10: NLP models for Sentiment Analysis](#project-10-nlp-models-for-sentiment-analysis)
-11. [Project 11: Talk with your Project](#Project-11-Talk-with-your-Project)
+11. [Project 11: Talk with your PDF Project](#Project-11-Talk-with-your-PDF-Project)
 12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
@@ -108,7 +108,7 @@ This project focuses on sentiment analysis of Amazon Food Reviews, employing two
 **Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Language_Analysis/Sentiment_Analysis.ipynb)
 
 
-## Project 11: Talk with your Project
+## Project 11: Talk with your PDF Project
 
 **Description:**
 
