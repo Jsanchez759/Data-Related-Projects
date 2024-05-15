@@ -21,7 +21,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
-
+14. [Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines](#project-15-Bachelor-Degree-final-project---Thermal-and-economic-optimization-of-an-organic-rankine-cycle-using-waste-heat-from-internal-combustion-engines)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -154,6 +154,17 @@ here we have a replication of folders and using more advanced techniques such as
 
 **Link to Project:** 
 - [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/complete_project)
+
+## Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines
+
+**Description:**
+
+The present research proposal aims to expose the optimization of the utilization of waste heat from internal combustion engines (Diesel), to increase the generation of electric power by implementing an Organic Rankine Cycle (ORC). The thermodynamic model is developed in Python programming language and the optimization was performed using the computational tool ModeFrontier. The mathematical model was programmed in order to optimize the thermodynamic cycle, maximizing the power output and minimizing the levelized energy cost of the Organic Rankine Cycle (ORC).
+
+**Technologies Used:** Python, CoolProp, Pandas
+
+**Link to Project:** 
+- [Project]()
 
 ## Contact Information
 
