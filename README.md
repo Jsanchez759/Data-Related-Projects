@@ -164,7 +164,7 @@ The present research proposal aims to expose the optimization of the utilization
 **Technologies Used:** Python, CoolProp, Pandas
 
 **Link to Project:** 
-- [Project]()
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Optimization_Project)
 
 ## Contact Information
 
