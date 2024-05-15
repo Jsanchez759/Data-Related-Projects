@@ -71,7 +71,7 @@ Model Evaluation: The models are rigorously evaluated using performance metrics 
 
 ## Project 3: Sunflower Classification with Convolutional Neural Networks
 
-This Machine Learning project focuses on the detection and classification of diseases in plant leaves using advanced image analysis techniques and Convolutional Neural Networks (CNNs) implemented in TensorFlow. The goal is to develop a system capable of identifying whether a plant leaf is healthy or shows signs of disease, which can be crucial for crop health and agriculture.
+This Machine Learning project focuses on classification of types of Sunflower using advanced image analysis techniques and Convolutional Neural Networks (CNNs) implemented in TensorFlow. This is a complete project that start with data preparation, model testing and developing and finally the developing a Flask API to consume the model
 
 **Project Steps:**
 
@@ -87,7 +87,7 @@ Model Deployment: I created a Flask backend with a html configuration to visuali
 
 **Technologies Used:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs).
 
-**Link to Project:** [Sunflower Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Image_Analysis/Leafs_Diseases_Classification.ipynb)
+**Link to Project:** [Sunflower Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Neural_Networks/Image_Analysis/flower_classification)
 
 ## Project 4: Concept Analysis of Neural Networks
 
@@ -296,13 +296,12 @@ The idea with this project was fine-tunning the GPT-3.5 LLM model using the Open
 
 **Description:**
 
-The idea with this project was create different chatbots using Gradio as backend and pre-trained LLMs inside serveless end-points, in this project we use the RunPod API to create the instances and the application take this end-point and the user is able to interact and chat with the model
+The idea with this project was create different chatbots using Gradio as backend and pre-trained LLMs inside serveless end-points, in this project we use the RunPod API to create the instances and the application take this end-point and the user is able to interact and chat with the model using a Gradio App
 
 **Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
 
 **Link to Project:** 
-- [End-Point Creation](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/runpod_endpoint.ipynb)
-- [Chat-Bot Backend](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/text_generation_runpod/gradio_chatbot.py)
+- [LLM Chatbot](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/text_generation_runpod)
 
 ## Project 14: Complete ML Project - Student Exam Performance Indicator
 
