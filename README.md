@@ -6,7 +6,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 1. [Project 1: SpaceX Rocket Landing Classification](#project-1-SpaceX-Rocket-Landing-Classification)
 2. [Project 2: Mama Cancer Analysis and prediction](#project-2-Mama-Cancer-Analysis-and-prediction)
-3. [Project 3: Sunflower Classification with Convolutional Neural Networks](#Project-3-Sunflower-Classification-with Convolutional-Neural-Networks)
+3. [Project 3: Sunflower Classification with Convolutional Neural Networks](#Project-3-Sunflower-Classification-with-Convolutional-Neural-Networks)
 4. [Project 4: Concept Analysis of Neural Networks](#project-4-Concept-Analysis-of-Neural-Networks)
 5. [Project 5: Image Detection Using pretrained YOLOv5](#project-5-Image-Detection-Using-pretrained-YOLOv5)
 6. [Project 6: Car Price Prediction](#project-6-Car-Price-Prediction)
