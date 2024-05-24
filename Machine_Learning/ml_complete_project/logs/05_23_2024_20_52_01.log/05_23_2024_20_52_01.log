@@ -1,0 +1,9 @@
+[ 2024-05-23 20:52:05,111 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 20:52:05,111 ] 96 werkzeug - INFO -  * Debugger PIN: 180-553-601
+[ 2024-05-23 20:52:36,260 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\ops\\array_ops.py', reloading
+[ 2024-05-23 20:52:36,385 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\ops\\gen_array_ops.py', reloading
+[ 2024-05-23 20:52:36,718 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\util\\dispatch.py', reloading
+[ 2024-05-23 20:52:36,747 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\util\\tf_decorator.py', reloading
+[ 2024-05-23 20:52:36,763 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\util\\traceback_utils.py', reloading
+[ 2024-05-23 20:52:36,801 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\_api\\v2\\nn\\__init__.py', reloading
+[ 2024-05-23 20:52:36,835 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\tensorflow\\python\\ops\\nn_ops.py', reloading

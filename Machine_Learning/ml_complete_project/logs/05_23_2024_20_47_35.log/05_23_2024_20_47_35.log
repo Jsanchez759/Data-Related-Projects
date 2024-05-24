@@ -1,0 +1,25 @@
+[ 2024-05-23 20:47:40,614 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 20:47:40,622 ] 96 werkzeug - INFO -  * Debugger PIN: 180-553-601
+[ 2024-05-23 20:48:06,734 ] 96 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:48:06] "GET /?PayloadMass=8100&Flights=1&GridFins=0&Reused=0&Legs=1&ReusedCount=0&Orbit=ES-L1&LaunchSite=GEO HTTP/1.1" 200 -
+[ 2024-05-23 20:48:15,900 ] 96 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:48:15] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 20:48:40,463 ] 96 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:48:40] "GET /predict HTTP/1.1" 200 -
+[ 2024-05-23 20:48:52,164 ] 96 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:48:52] "POST /predict HTTP/1.1" 200 -
+[ 2024-05-23 20:50:09,789 ] 19 root - INFO - Starting re - training
+[ 2024-05-23 20:50:09,789 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-05-23 20:50:09,822 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-05-23 20:50:09,829 ] 30 root - INFO - Train test split
+[ 2024-05-23 20:50:09,846 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-05-23 20:50:09,878 ] 35 root - INFO - Transformation of the data is started
+[ 2024-05-23 20:50:09,903 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-05-23 20:50:09,919 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-05-23 20:50:12,960 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\blocks_events.py', reloading
+[ 2024-05-23 20:50:12,968 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\accordion.py', reloading
+[ 2024-05-23 20:50:12,977 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\column.py', reloading
+[ 2024-05-23 20:50:12,995 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\row.py', reloading
+[ 2024-05-23 20:50:13,000 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\form.py', reloading
+[ 2024-05-23 20:50:13,008 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\group.py', reloading
+[ 2024-05-23 20:50:13,017 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\layouts\\tabs.py', reloading
+[ 2024-05-23 20:50:13,041 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\base.py', reloading
+[ 2024-05-23 20:50:13,203 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\annotated_image.py', reloading
+[ 2024-05-23 20:50:13,236 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\anaconda3\\envs\\personal_projects\\Lib\\site-packages\\gradio\\components\\audio.py', reloading
+[ 2024-05-23 20:50:13,597 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"

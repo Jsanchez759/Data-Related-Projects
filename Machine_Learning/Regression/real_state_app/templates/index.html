@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real Estate Price Prediction</title>
+</head>
+<body>
+    <h1>Real Estate Price Prediction</h1>
+    <form id="prediction-form">
+        <label for="total_sqft">Total Square Feet:</label>
+        <input type="number" id="total_sqft" name="total_sqft" required>
+        <br>
+        <label for="total_size">Total Size:</label>
+        <input type="number" id="total_size" name="total_size" required>
+        <br>
+        <label for="baths">Number of Bathrooms:</label>
+        <input type="number" id="baths" name="baths" required>
+        <br>
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required>
+        <br>
+        <button type="button" onclick="predictPrice()">Predict Price</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        function predictPrice() {
+            const form = document.getElementById('prediction-form');
+            const formData = new FormData(form);
+
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').innerHTML = `Estimated Price: $${data.estimated_price.toFixed(2)}`;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = 'Error occurred while predicting the price.';
+            });
+        }
+    </script>
+</body>
+</html>

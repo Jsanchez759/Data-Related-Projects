@@ -1,0 +1,12 @@
+[ 2024-05-23 20:50:29,657 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 20:50:29,657 ] 96 werkzeug - INFO -  * Debugger PIN: 180-553-601
+[ 2024-05-23 20:50:30,493 ] 19 root - INFO - Starting re - training
+[ 2024-05-23 20:50:30,493 ] 21 root - INFO - Data Ingestion methods starts
+[ 2024-05-23 20:50:30,493 ] 24 root - INFO - Dataset read as dataframe
+[ 2024-05-23 20:50:30,524 ] 30 root - INFO - Train test split
+[ 2024-05-23 20:50:30,534 ] 36 root - INFO - Ingestion of the data is completed
+[ 2024-05-23 20:50:30,545 ] 35 root - INFO - Transformation of the data is started
+[ 2024-05-23 20:50:30,573 ] 43 root - INFO - Transformation of the data is completed
+[ 2024-05-23 20:50:30,578 ] 62 root - INFO - Initializing PyCaret setup
+[ 2024-05-23 20:50:33,465 ] 1026 httpx - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+[ 2024-05-23 20:50:35,118 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\jesus\\AppData\\Roaming\\Python\\Python311\\site-packages\\pycaret\\internal\\pipeline.py', reloading

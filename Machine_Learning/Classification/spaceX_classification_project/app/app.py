@@ -1,6 +1,7 @@
-from flask import Flask, request, jsonify
-import joblib, json, os
+from flask import Flask, request, render_template, jsonify
+import joblib, json
 import numpy as np
+import os
 
 app = Flask(__name__)
 first_call = True
@@ -25,20 +26,20 @@ def prepare_input(PayloadMass, Flights, GridFins, Reused, Legs, ReusedCount, Orb
     return input
 
 def get_model():
-    return joblib.load(open('models/model.pkl', 'rb')), joblib.load(open('models/scaler_model.pkl', 'rb'))
+    return joblib.load(open('app/models/model.pkl', 'rb')), joblib.load(open('app/models/scaler_model.pkl', 'rb'))
 
 
 @app.route('/', methods=['GET'])
 def home():
-    return jsonify({'message': 'Hello, World!'})
+    return render_template('index.html')
 
 @app.route('/predict', methods=['GET', 'POST'])
 def predict():
     global first_call
     if first_call:
         first_call = False
-        #os.chdir(os.getcwd() + '\Machine_Learning\Classification\spaceX_classification_project')
-    columns_model = json.load(open('models/columns_model.json'))
+    print(os.getcwd()) # To check the current working directory
+    columns_model = json.load(open('app/models/columns_model.json'))
     PayloadMass = float(request.json['PayloadMass'])
     Flights = int(request.json['Flights'])
     GridFins = int(request.json['GridFins'])
@@ -46,7 +47,7 @@ def predict():
     Legs = int(request.json['Legs'])
     ReusedCount = int(request.json['ReusedCount'])
     Orbit = request.json['Orbit']
-    LaunchSite = request.json['LaunchSite']
+    LaunchSite = request.json['LaunchSite'] 
 
     model, scaler_model = get_model()
     input = prepare_input(PayloadMass, Flights, GridFins, Reused, Legs, ReusedCount, Orbit, LaunchSite, columns_model, scaler_model)

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SpaceX Classification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+        
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        input[type=text] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SpaceX Classification</h1>
+        <form id="prediction-form">
+            <label for="PayloadMass">Payload Mass:</label>
+            <input type="text" id="PayloadMass" name="PayloadMass" placeholder="Enter Payload Mass">
+            
+            <label for="Flights">Flights:</label>
+            <input type="text" id="Flights" name="Flights" placeholder="Enter Flights">
+            
+            <label for="GridFins">Grid Fins:</label>
+            <input type="text" id="GridFins" name="GridFins" placeholder="Enter Grid Fins">
+            
+            <label for="Reused">Reused:</label>
+            <input type="text" id="Reused" name="Reused" placeholder="Enter Reused">
+            
+            <label for="Legs">Legs:</label>
+            <input type="text" id="Legs" name="Legs" placeholder="Enter Legs">
+            
+            <label for="ReusedCount">Reused Count:</label>
+            <input type="text" id="ReusedCount" name="ReusedCount" placeholder="Enter Reused Count">
+            
+            <label for="Orbit">Orbit:</label>
+            <input type="text" id="Orbit" name="Orbit" placeholder="Enter Orbit">
+            
+            <label for="LaunchSite">Launch Site:</label>
+            <input type="text" id="LaunchSite" name="LaunchSite" placeholder="Enter Launch Site">
+            
+            <button type="submit">Predict</button>
+        </form>
+        <div id="prediction-result"></div>
+    </div>
+
+    <script>
+        document.getElementById('prediction-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            var formData = {
+                PayloadMass: document.getElementById('PayloadMass').value,
+                Flights: document.getElementById('Flights').value,
+                GridFins: document.getElementById('GridFins').value,
+                Reused: document.getElementById('Reused').value,
+                Legs: document.getElementById('Legs').value,
+                ReusedCount: document.getElementById('ReusedCount').value,
+                Orbit: document.getElementById('Orbit').value,
+                LaunchSite: document.getElementById('LaunchSite').value
+            };
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('prediction-result').textContent = 'Prediction: ' + data['Launch Rocket'];
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('prediction-result').textContent = 'Error making prediction.';
+            });
+        });
+    </script>
+</body>
+</html>

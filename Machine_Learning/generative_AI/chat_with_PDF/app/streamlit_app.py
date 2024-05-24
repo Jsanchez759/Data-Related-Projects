@@ -12,7 +12,7 @@ sys.path.append('..')
 import config
 
 os.environ['HUGGINGFACEHUB_API_TOKEN'] = config.HUGGINGFACEHUB_API_TOKEN
-model_id = "google/gemma-7b-it"
+model_id = "google/flan-t5-xxl"
 
 def get_pdf_text(pdf_files):
     
@@ -46,7 +46,7 @@ def cleans_answer_model(message, question):
     return text_following_word
 
 
-def get_vector_store(text_chunks):
+def get_vector_store(text_chunks):  
     
     # For OpenAI Embeddings
     
@@ -92,8 +92,8 @@ def handle_user_input(question):
             st.write(user_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
         else:
             st.write(f"Model {model_id} response")
-            new_message = cleans_answer_model(message.content, question)
-            st.write(bot_template.replace("{{MSG}}", new_message), unsafe_allow_html=True)
+            #new_message = cleans_answer_model(message.content, question)
+            st.write(bot_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
 
 def main():
     st.set_page_config(page_title="Ask your PDF")
