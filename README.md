@@ -117,8 +117,7 @@ This project was focus in create an app that get a PDF file, analyzed it and hav
 **Technologies Used:** Python, LangChain, Transformers, Gradio, Streamlit, OpenAI services
 
 **Link to Project:** 
-- [Gradio App](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/10K_project/gradio_app.py)
-- [Streamlit App](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Generative/10K_project/app/streamlit_app.py)
+- [App](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/chat_with_PDF)
 
 ## Project 12: GPT Turbo Fine Tunnig
 
@@ -129,8 +128,7 @@ The idea with this project was fine-tunning the GPT-3.5 LLM model using the Open
 **Technologies Used:** Python, Transformers, OpenAI services
 
 **Link to Project:** 
-- [English Teacher Model](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/GPT_Turbo_Fine_Tunning/English_Teacher_Model)
-- [Jobs Drive Chatbot Model](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/GPT_Turbo_Fine_Tunning/The_Jobs_Driver_Model)
+- [Fine Tunning Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/GPT_Turbo_Fine_Tunning)
 
 ## Project 13: ChatBots back-end and Deployment
 
@@ -141,7 +139,7 @@ The idea with this project was create different chatbots using Gradio as backend
 **Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
 
 **Link to Project:** 
-- [LLM Chatbot](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/Generative/text_generation_runpod)
+- [LLM Chatbot](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_generation_runpod)
 
 ## Project 14: Complete ML Project - Student Exam Performance Indicator
 
@@ -153,7 +151,7 @@ here we have a replication of folders and using more advanced techniques such as
 **Technologies Used:** Python, Scikit-Learn, Docker
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/complete_project)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/ml_complete_project)
 
 ## Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines
 
