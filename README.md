@@ -22,7 +22,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
 15. [Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines](#project-15-Bachelor-Degree-final-project---Thermal-and-economic-optimization-of-an-organic-rankine-cycle-using-waste-heat-from-internal-combustion-engines)
-16. [Project 16: Emotion Detection App](#project-16:-Emotion-Detection-App)
+16. [Project 16: Emotion Detection App](#project-16-Emotion-Detection-App)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
