@@ -21,7 +21,8 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
-14. [Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines](#project-15-Bachelor-Degree-final-project---Thermal-and-economic-optimization-of-an-organic-rankine-cycle-using-waste-heat-from-internal-combustion-engines)
+15. [Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines](#project-15-Bachelor-Degree-final-project---Thermal-and-economic-optimization-of-an-organic-rankine-cycle-using-waste-heat-from-internal-combustion-engines)
+16. [Project 16: Emotion Detection App](#project-16:-Emotion-Detection-App)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -163,6 +164,17 @@ The present research proposal aims to expose the optimization of the utilization
 
 **Link to Project:** 
 - [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Optimization_Project)
+
+## Project 16: Emotion Detection App
+
+**Description:**
+
+This project aims to create a basic AI-Web App to analyze statements and predict their sentiments (positive, neutral and negative), this project was created using a pretrained model as RoBERta and tools such as Flask, HTML and basic Javascript to create the user interface
+
+**Technologies Used:** Python, Flask, Transformer PreTrained Models, HTML, JavaScript
+
+**Link to Project:** 
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/Neural_Networks/Language_Analysis/emotion_detection_app)
 
 ## Contact Information
 
