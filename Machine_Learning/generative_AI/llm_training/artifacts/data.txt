@@ -1,0 +1,25 @@
+Machine Learning is a discipline within the field of Artificial Intelligence which, by means of algorithms, provides computers with the ability to identify patterns from mass data in order and to make predictions (predictive analytics). This learning method allows computers to perform specific tasks autonomously, that is, without the need to be programmed.
+
+The term was first used in 1959. It has, however, gained relevance in recent years due to the increase in computing capacities and the huge increase in data. Automatic learning techniques are, in fact, a fundamental part of Big Data.
+
+Machine Learning algorithms are divided into three categories, the first two being the most common:
+
+Supervised learning: these algorithms have prior learning incorporated in them and are based on a tag system associated with data that allow them to make decisions or make predictions. An example is a spam detector which tags an e-mail as spam or not, depending on the patterns it has learned from the history of e-mails (sender, text/image ratio, subject key words, etc.).
+Unsupervised learning: these algorithms do not have previous knowledge. They face a data chaos with the objective of finding patterns that somehow allow the organization thereof. For example, in the field of marketing they are used to extract patterns from mass data obtained from social networks and to create highly segmented publicity campaigns.
+Reinforced learning: its objective is for an algorithm to learn from its own experience. In other words, it will be able to make the best decision in different situations according to a trial and error process in which the correct decisions are awarded. It is currently being used to enable facial recognition, make medical diagnoses or classify DNA sequences.
+
+Machine Learning is one of the pillars on which digital transformation is based. At present, it is already being used to find new solutions in different fields, of which the following are worth highlighting:
+
+  Recommendations: it allows making tailor made purchase suggestions on online platforms or can recommend songs. In its most basic form, it analyses the user's purchase and view history and compares it to what other users with similar trends or spending habits have done.
+
+  Intelligent vehicles: according to the report Automotive 2025: industry without borders by IBM, in 2025 we will already see intelligent cars on the roads. Thanks to automatic learning, these vehicles will be able to adjust the internal settings (temperature, music, backrest inclination etc.) according to the driver's preferences and even move the steering wheel on their own to react to the environment.
+
+  Social networks: Twitter, for example, uses Machine Learning algorithms to greatly reduce spam published on this social network while Facebook, in turn, uses it to detect both fake news and content not allowed in live broadcasts that it automatically blocks.
+
+  Natural Language Processing (NLP): by understanding the human language, virtual assistants like Alexa or Siri can instantly translate from one language to another, recognise the user's voice and even analyse the user's feelings. On the other hand, NLP is also used for other complex tasks such as to translate the legal jargon of contracts to simple language and help lawyers sort large volumes of information regarding a case.
+
+  Search: search engines use automatic learning to optimize their results according to their effectiveness, measuring the latter through the user's clicks.
+
+  Medicine: researchers at the Massachusetts Institute of Technology (MIT) already use Machine Learning to for the early detection of breast cancer, which is vitally important because the early detection of cancer increases the chances of curing it. It is also highly effective in detecting pneumonia and diseases of the retina that can lead to blindness.
+
+  Cybersecurity: new antivirus and malware detection engines already use automatic learning to boost scanning, accelerate detection and improve the ability to recognise anomalies.
