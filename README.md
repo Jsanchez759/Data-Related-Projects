@@ -25,6 +25,8 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 16. [Project 16: Emotion Detection App](#project-16-Emotion-Detection-App)
 17. [Project 17: Development and compare RAG in Generative Models](#project-17-Development-and-compare-RAG-in-Generative-Models)
 18. [Project 18: FineTuning a Custom Large Language Model](#project-18-FineTuning-a-Custom-Large-Language-Model)
+Project 19: Topic Summarization and Clustering Application
+19. [Project 19: Topic Summarization and Clustering Application](#project-19-topic-summarization-and-clustering-application)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -208,8 +210,33 @@ And finally, within the evaluate_model.py file the perplexity of the model and i
 
 **Technologies Used:** Python, Pytorch, Transformer PreTrained Models, Pinecone
 
+## Project 19: Topic Summarization and Clustering Application
+
+**Description:** 
+
+This Streamlit-based application offers an interactive interface for users to explore automated topic summarization and clustering. Built to handle multiple input topics, the app uses state-of-the-art language models and natural language processing (NLP) techniques to generate and analyze text summaries. The main components and functionalities of the application are as follows:
+
+Topic Summarization:
+
+- Users can input a list of topics to be summarized.
+- The application leverages a large pre-trained language model from Hugging Face to generate concise summaries for each topic, ensuring relevance and comprehensiveness.
+- As a reference point, summaries from Wikipedia are retrieved and used for comparison against the generated summaries.
+
+Summary Validation:
+
+The application employs two advanced metrics to validate the quality of the generated summaries:
+- ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Measures the overlap between the generated and reference summaries, emphasizing recall to ensure the generated summary captures critical information from the reference.
+- BERTScore: A semantic similarity metric that compares the generated summary with the Wikipedia reference summary using BERT embeddings, offering a nuanced evaluation of content similarity.
+Clustering Analysis:
+
+To gain insights into the generated summaries, the app applies clustering analysis on the summaries based on their embeddings.
+Using embeddings derived from Hugging Face’s models, the app groups similar summaries using DBSCAN (Density-Based Spatial Clustering of Applications with Noise), allowing flexible, shape-independent clustering.
+Silhouette Score is calculated to evaluate the quality of the clusters, providing a measure of how well each topic summary fits within its assigned cluster.
+
+**Technologies Used:** Python, Scikit-Learn, Transformer PreTrained Models, NLP, Generative AI
+
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/llm_training)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_cluster_analysis)
 
 ## Contact Information
 

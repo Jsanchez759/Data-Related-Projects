@@ -1,0 +1,11 @@
+streamlit
+transformers
+scikit-learn
+plotly
+accelerate
+streamlit-option-menu
+pandas
+python-dotenv
+rouge-score
+bert-score
+wikipedia

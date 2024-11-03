@@ -4,3 +4,4 @@ config.py
 static/
 devcontainer.json
 .env
+logs/*
