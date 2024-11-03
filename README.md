@@ -25,7 +25,6 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 16. [Project 16: Emotion Detection App](#project-16-Emotion-Detection-App)
 17. [Project 17: Development and compare RAG in Generative Models](#project-17-Development-and-compare-RAG-in-Generative-Models)
 18. [Project 18: FineTuning a Custom Large Language Model](#project-18-FineTuning-a-Custom-Large-Language-Model)
-Project 19: Topic Summarization and Clustering Application
 19. [Project 19: Topic Summarization and Clustering Application](#project-19-topic-summarization-and-clustering-application)
 
 ## Project 1: SpaceX Rocket Landing Classification
