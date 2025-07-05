@@ -5,3 +5,4 @@ static/
 devcontainer.json
 .env
 logs/*
+.venv
