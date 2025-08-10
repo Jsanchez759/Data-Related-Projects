@@ -25,6 +25,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 16. [Project 16: Development and compare RAG in Generative Models](#project-16-Development-and-compare-RAG-in-Generative-Models)
 17. [Project 17: FineTuning a Custom Large Language Model](#project-17-FineTuning-a-Custom-Large-Language-Model)
 18. [Project 18: Topic Summarization and Clustering Application](#project-18-topic-summarization-and-clustering-application)
+19. [Project 19: YouTube Video Summarizer with RAG](#project-19-youtube-video-summarizer-with-rag)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -238,6 +239,28 @@ Silhouette Score is calculated to evaluate the quality of the clusters, providin
 
 **Link to Project:** 
 - [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_cluster_analysis)
+
+## Project 19: YouTube Video Summarizer with RAG
+
+**Description:** 
+
+This project implements an intelligent YouTube video analysis system that combines Retrieval-Augmented Generation (RAG) with local language models to provide video summarization and interactive Q&A capabilities. The application extracts transcripts from YouTube videos, processes them using advanced NLP techniques, and enables users to ask specific questions about the video content.
+
+Key Features:
+- Automatic transcript extraction from YouTube videos using the YouTube API
+- Text chunking and embedding generation for efficient information retrieval
+- FAISS vector database for fast similarity search and context retrieval
+- Local LLM integration using Ollama (Llama 3.2:3b) for privacy-focused processing
+- Interactive Gradio web interface with dual functionality: summarization and Q&A
+- Optimized caching system to avoid redundant model loading and transcript processing
+- RAG implementation that retrieves relevant context before generating responses
+
+The system uses a class-based architecture with lazy loading for models and embeddings, ensuring efficient resource utilization and faster response times. The application supports both video summarization and contextual question answering, making it ideal for educational content analysis, research, and content review.
+
+**Technologies Used:** Python, Gradio, LangChain, Ollama, FAISS, YouTube API, RAG, NLP
+
+**Link to Project:** 
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/youtube_summarizer_rag)
 
 ## Contact Information
 
