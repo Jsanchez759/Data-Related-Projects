@@ -34,7 +34,7 @@ This Machine Learning project focuses on predicting whether a SpaceX rocket will
 
 **Technologies Used:** Python, Pandas, Seaborn, Scikit-Learn, Flask, Docker
 
-**Link to Project:** [SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/classification/spaceX_classification_project)
+**Link to Project:** [SpaceX Rocket Landing Classification](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/classification/spaceX_classification_project)
 
 ## Project 2: Mama Cancer Analysis and prediction
 
@@ -42,7 +42,7 @@ This Machine Learning project is focused on classifying and analyzing the propen
 
 **Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Link to Project:** [Mama Cancer Analysis and prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/machine_learning/classification/mama_cancer_analysis.ipynb)
+**Link to Project:** [Mama Cancer Analysis and prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/classification/mama_cancer_analysis.ipynb)
 
 ## Project 3: Sunflower Classification with Convolutional Neural Networks
 
@@ -50,7 +50,7 @@ This Machine Learning project focuses on classification of types of Sunflower us
 
 **Technologies Used:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs), Flask
 
-**Link to Project:** [Sunflower Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/neural_networks/image_analysis/flower_classification)
+**Link to Project:** [Sunflower Classification with Convolutional Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/neural_networks/image_analysis/flower_classification)
 
 ## Project 4: Concept Analysis of Neural Networks
 
@@ -58,7 +58,7 @@ This project is a comprehensive exploration of various configurations and hyperp
 
 **Technologies Used:** Python, Tensorflow, Matplotlib
 
-**Link to Project:** [Concept Analysis of Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/machine_learning/neural_networks/image_analysis/Redes_Neuronales_Analisis.ipynb)
+**Link to Project:** [Concept Analysis of Neural Networks](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/neural_networks/image_analysis/Redes_Neuronales_Analisis.ipynb)
 
 ## Project 5: Image Detection Using pretrained YOLOv5
 
@@ -66,7 +66,7 @@ This project involves the fine-tuning of a pretrained YOLOv5 (You Only Look Once
 
 **Technologies Used:** Python, Jupyter Notebook, Pandas, Google Colab, YOLOv5
 
-**Link to Project:** [Image Detection Using pretrained YOLOv5](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/machine_learning/neural_networks/image_analysis/YOLO_Transfer_Learning.ipynb)
+**Link to Project:** [Image Detection Using pretrained YOLOv5](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/neural_networks/image_analysis/YOLO_Transfer_Learning.ipynb)
 
 ## Project 6: Car Price Prediction
 
@@ -74,7 +74,7 @@ This project aims to analyze a dataset containing information about cars and the
 
 **Technologies Used:** Python, Pandas, Scikit-Learn, Seaborn
 
-**Link to Project:** [Car Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/machine_learning/regression/car_price_prediction/Car_Price_Analysis_prediction.ipynb)
+**Link to Project:** [Car Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/regression/car_price_prediction/Car_Price_Analysis_prediction.ipynb)
 
 ## Project 7: Real State Price Prediction
 
@@ -82,7 +82,7 @@ This project is designed to analyze a dataset containing information about India
 
 **Technologies Used:** Python, Pandas, Scikit-Learn, Seaborn
 
-**Link to Project:** [Real State Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/regression/real_state_app)
+**Link to Project:** [Real State Price Prediction](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/regression/real_state_app)
 
 ## Project 8: Comparison of 3 Deep Learning techniques for Colombian Energy Price Forescasting
 
@@ -98,7 +98,7 @@ This project represents the culmination of my Master's in Artificial Intelligenc
 
 **Technologies Used:** Python, Pandas, Matplotlib, Scikit-Learn, Seaborn, Spacial Analysis
 
-**Link to Project:** [Data analysis projects](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/data_analysis)
+**Link to Project:** [Data analysis projects](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Data_Analysis)
 
 ## Project 10: NLP models for Sentiment Analysis
 
@@ -108,7 +108,7 @@ This project focuses on sentiment analysis of Amazon Food Reviews, employing two
 
 **Technologies Used:** Python, Pandas, Matplotlib, Transformers, Seaborn, Natural Language Processing
 
-**Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/machine_learning/neural_networks/language_analysis/Sentiment_Analysis.ipynb)
+**Link to Project:** [NLP for Sentiment Analysis](https://github.com/Jsanchez759/Data-Related-Projects/blob/main/Machine_Learning/neural_networks/language_analysis/Sentiment_Analysis.ipynb)
 
 
 ## Project 11: Talk with your PDF Project
@@ -120,7 +120,7 @@ This project was focus in create an app that get a PDF file, analyzed it and hav
 **Technologies Used:** Python, LangChain, Transformers, Gradio, Streamlit, OpenAI services
 
 **Link to Project:** 
-- [App](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/chat_with_PDF)
+- [App](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/chat_with_PDF)
 
 ## Project 12: GPT Turbo Fine Tunnig
 
@@ -131,7 +131,7 @@ The idea with this project was fine-tunning the GPT-3.5 LLM model using the Open
 **Technologies Used:** Python, Transformers, OpenAI services
 
 **Link to Project:** 
-- [Fine Tunning Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/gpt_fine_tunning_model)
+- [Fine Tunning Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/gpt_fine_tunning_model)
 
 ## Project 13: ChatBots back-end and Deployment
 
@@ -142,7 +142,7 @@ The idea with this project was create different chatbots using Gradio as backend
 **Technologies Used:** Python, LangChain, Transformers, Gradio, RunPod Services
 
 **Link to Project:** 
-- [LLM Chatbot](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/text_generation_runpod)
+- [LLM Chatbot](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_generation_runpod)
 
 ## Project 14: Complete ML Project - Student Exam Performance Indicator
 
@@ -154,7 +154,7 @@ here we have a replication of folders and using more advanced techniques such as
 **Technologies Used:** Python, Scikit-Learn, Docker
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/ml_complete_project)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/ml_complete_project)
 
 ## Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines
 
@@ -176,7 +176,7 @@ This project aims to create a basic AI-Web App to analyze statements and predict
 **Technologies Used:** Python, Flask, Transformer PreTrained Models, HTML, JavaScript
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/neural_networks/language_analysis/emotion_detection_app)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/neural_networks/language_analysis/emotion_detection_app)
 
 ## Project 17: Development and compare RAG in Generative Models
 
@@ -191,7 +191,7 @@ o For RAG data, the rag-datasets/rag-mini-bioasq dataset from HuggingFace is use
 **Technologies Used:** Python, Hugging Face, Transformer PreTrained Models, Pinecone
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/rag_development)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/rag_development)
 
 
 ## Project 18: FineTuning a Custom Large Language Model
@@ -209,7 +209,7 @@ And finally, within the evaluate_model.py file the perplexity of the model and i
 **Technologies Used:** Python, Pytorch, Transformer PreTrained Models, Pinecone
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/llm_training)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/llm_training)
 
 ## Project 19: Topic Summarization and Clustering Application
 
@@ -237,7 +237,7 @@ Silhouette Score is calculated to evaluate the quality of the clusters, providin
 **Technologies Used:** Python, Scikit-Learn, Transformer PreTrained Models, NLP, Generative AI
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/machine_learning/generative_AI/text_cluster_analysis)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_cluster_analysis)
 
 ## Contact Information
 
