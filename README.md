@@ -21,11 +21,10 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 12. [Project 12: GPT Turbo Fine Tunnig](#project-12-gpt-turbo-fine-tunnig)
 13. [Project 13: ChatBots back-end and Deployment](#project-13-chatbots-back-end-and-deployment)
 14. [Project 14: Complete ML Project - Student Exam Performance Indicator](#project-14-complete-ml-project---student-exam-performance-indicator)
-15. [Project 15: Bachelor Degree final project - Thermal and economic optimization of an organic rankine cycle using waste heat from internal combustion engines](#project-15-Bachelor-Degree-final-project---Thermal-and-economic-optimization-of-an-organic-rankine-cycle-using-waste-heat-from-internal-combustion-engines)
-16. [Project 16: Emotion Detection App](#project-16-Emotion-Detection-App)
-17. [Project 17: Development and compare RAG in Generative Models](#project-17-Development-and-compare-RAG-in-Generative-Models)
-18. [Project 18: FineTuning a Custom Large Language Model](#project-18-FineTuning-a-Custom-Large-Language-Model)
-19. [Project 19: Topic Summarization and Clustering Application](#project-19-topic-summarization-and-clustering-application)
+15. [Project 15: Emotion Detection App](#project-15-Emotion-Detection-App)
+16. [Project 16: Development and compare RAG in Generative Models](#project-16-Development-and-compare-RAG-in-Generative-Models)
+17. [Project 17: FineTuning a Custom Large Language Model](#project-17-FineTuning-a-Custom-Large-Language-Model)
+18. [Project 18: Topic Summarization and Clustering Application](#project-18-topic-summarization-and-clustering-application)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
