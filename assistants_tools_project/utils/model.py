@@ -1,10 +1,14 @@
-from langchain_ollama.llms import OllamaLLM
+from langchain_ollama import ChatOllama
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 
 def set_up_model():
-    llm = OllamaLLM(model="llama3.2:3b")
+    llm = ChatOllama(model="llama3.2:3b")
     return llm
+
+def set_up_vision_model():
+    vlm = ChatOllama(model="granite3.2-vision")
+    return vlm
 
 def set_up_embeddings():
     embeddings = OllamaEmbeddings(model="nomic-embed-text:latest")

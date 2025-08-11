@@ -25,7 +25,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 16. [Project 16: Development and compare RAG in Generative Models](#project-16-Development-and-compare-RAG-in-Generative-Models)
 17. [Project 17: FineTuning a Custom Large Language Model](#project-17-FineTuning-a-Custom-Large-Language-Model)
 18. [Project 18: Topic Summarization and Clustering Application](#project-18-topic-summarization-and-clustering-application)
-19. [Project 19: YouTube Video Summarizer with RAG](#project-19-youtube-video-summarizer-with-rag)
+19. [Project 19: Multi-Modal AI Assistant Tools](#project-19-multi-modal-ai-assistant-tools)
 
 ## Project 1: SpaceX Rocket Landing Classification
 
@@ -240,27 +240,38 @@ Silhouette Score is calculated to evaluate the quality of the clusters, providin
 **Link to Project:** 
 - [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/Machine_Learning/generative_AI/text_cluster_analysis)
 
-## Project 19: YouTube Video Summarizer with RAG
+## Project 19: Multi-Modal AI Assistant Tools
 
 **Description:** 
 
-This project implements an intelligent YouTube video analysis system that combines Retrieval-Augmented Generation (RAG) with local language models to provide video summarization and interactive Q&A capabilities. The application extracts transcripts from YouTube videos, processes them using advanced NLP techniques, and enables users to ask specific questions about the video content.
+This comprehensive AI assistant application provides multiple analysis capabilities through an intuitive Gradio web interface. The project integrates various AI technologies to process different types of media and content, offering users a unified platform for content analysis and question-answering across multiple modalities.
 
 Key Features:
-- Automatic transcript extraction from YouTube videos using the YouTube API
-- Text chunking and embedding generation for efficient information retrieval
-- FAISS vector database for fast similarity search and context retrieval
-- Local LLM integration using Ollama (Llama 3.2:3b) for privacy-focused processing
-- Interactive Gradio web interface with dual functionality: summarization and Q&A
-- Optimized caching system to avoid redundant model loading and transcript processing
-- RAG implementation that retrieves relevant context before generating responses
 
-The system uses a class-based architecture with lazy loading for models and embeddings, ensuring efficient resource utilization and faster response times. The application supports both video summarization and contextual question answering, making it ideal for educational content analysis, research, and content review.
+**YouTube Analysis:**
+- Automatic transcript extraction from YouTube videos
+- Video summarization using advanced language models
+- Interactive Q&A system for video content
+- RAG implementation for contextual responses
 
-**Technologies Used:** Python, Gradio, LangChain, Ollama, FAISS, YouTube API, RAG, NLP
+**Speech Analysis:**
+- Audio file upload and processing
+- Speech-to-text transcription
+- Question-answering based on audio content
+- Support for multiple audio formats
+
+**Web Search & Scraping:**
+- Intelligent web search functionality
+- Content scraping from search results
+- Question-answering based on scraped web content
+- Real-time information retrieval and analysis
+
+The application uses a modular architecture with efficient caching systems, local LLM integration, and optimized processing pipelines. Each module operates independently while sharing common infrastructure for embeddings and language model processing, making it ideal for research, content analysis, and information extraction tasks.
+
+**Technologies Used:** Python, Gradio, LangChain, Transformers, FAISS, YouTube API, Web Scraping, Speech Recognition, RAG, NLP
 
 **Link to Project:** 
-- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/youtube_summarizer_rag)
+- [Project](https://github.com/Jsanchez759/Data-Related-Projects/tree/main/assistants_tools_project)
 
 ## Contact Information
 

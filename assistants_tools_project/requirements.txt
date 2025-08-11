@@ -1,0 +1,8 @@
+youtube-transcript-api
+faiss-cpu
+langchain
+langchain-community
+langchain-ollama
+gradio
+transformers
+beautifulsoup4

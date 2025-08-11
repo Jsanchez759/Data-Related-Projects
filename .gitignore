@@ -6,3 +6,4 @@ devcontainer.json
 .env
 logs/*
 .venv
+*.ipynb

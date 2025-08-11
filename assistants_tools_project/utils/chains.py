@@ -14,8 +14,8 @@ def create_qa_chain(llm):
     """
 
     qa_template = """
-    You are an expert assistant providing detailed answers based on the following video content.
-    Relevant Video Context: {context}
+    You are an expert assistant providing detailed answers based on the following context.
+    Context: {context}
     Based on the above context, please answer the following question:
     Question: {question}
     """
