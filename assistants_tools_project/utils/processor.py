@@ -1,5 +1,5 @@
 from utils.youtube_api import get_transcript, process
-from utils.model import chunking, set_up_model, set_up_embeddings, set_up_vision_model
+from utils.model import chunking, set_up_model, set_up_embeddings
 from utils.vector_search import create_faiss_index, retrieve
 from utils.chains import create_qa_chain, create_summary_chain
 from utils.speech_recognition import get_speech_model, get_transcript_speech
@@ -31,12 +31,6 @@ class Processor:
         if self._llm is None:
             self._llm = set_up_model()
         return self._llm
-
-    @property
-    def vlm(self):
-        if self._vlm is None:
-            self._vlm = set_up_vision_model()
-        return self._vlm
 
     @property
     def speech_model(self):
